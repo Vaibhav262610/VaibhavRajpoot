@@ -16,7 +16,7 @@ const Footer = () => {
 
          <div className='whyme relative right-80'>
              <p className='pb-8 text-4xl text-green-400 font-semibold'>Get in Touch</p>
-            <p className='text-4xl text-gray-400'>I'm available for freelance projects. Let's work together to create<br/> something worth sharing.</p>
+            <p className='text-4xl text-gray-400'>I&apos;m available for freelance projects. Let&apos;s work together to create<br/> something worth sharing.</p>
             <br/>
             <div className='flex flex-row gap-5'>
             <button className='resume-btn hover:text-white' >Linkedin</button>
