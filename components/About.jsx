@@ -18,7 +18,7 @@ const About = () => {
         <div className="whyme relative right-80  ">
           <p className="pb-8 text-4xl text-green-400 font-semibold">About Me</p>
           <p className="text-4xl text-gray-400">
-            I am a Front-end creative developer based in Barielly, India. I am a{" "}
+            I am a Front-end creative developer based in Barielly India. I am a{" "}
             <br /> Computer Science undergraduate from Chandigarh University and
             <br /> also did some coursework in Designing and Visual Arts.
           </p>
