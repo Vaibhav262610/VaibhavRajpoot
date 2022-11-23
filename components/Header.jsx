@@ -14,10 +14,10 @@ const Header = () => {
           <h1 className="head-text pt-14 text-7xl text-gray-400 font-semibold">
             I speak in{" "}
             <span className=" text-yellow-400">{greaterThan}code /&gt; </span>{" "}
-            so you don't have to
+            so you don&apos;t have to
           </h1>
           <p className="main-para  sm:w-8/12 pt-10 text-4xl text-gray-400">
-            I'm your friendly neighborhood <span className="font-bold">Front-End Developer</span>. Helping people
+            I&apos;m your friendly neighborhood <span className="font-bold">Front-End Developer</span>. Helping people
             turn their ideas into sites & apps that work. I enjoy using my
             skill-set to empower people to accomplish their goals.
           </p>
