@@ -25,13 +25,13 @@ const Contact = () => {
     <p className='text-4xl text-gray-400'>Im available for freelance projects. Let's work together to create<br/> something worth sharing.</p>
     <br/>
     <div className='flex flex-row gap-5'>
-        <a href='#' target='_blank'>
+        <a href='#' target='_blank' rel="noopener">
             <button className='contact-btn hover:text-white' >Mail</button>
         </a>
-    <a href='https://www.linkedin.com/feed/' target='_blank'>
+    <a href='https://www.linkedin.com/feed/' target='_blank' rel="noopener">
         <button className='resume-btn hover:text-white' >Linkedin</button>
     </a>
-    <a href='https://github.com/Vaibhav262610' target='_blank'>
+    <a href='https://github.com/Vaibhav262610' target='_blank' rel="noopener">
         <button className='github-btn hover:text-white' >Github</button>
     </a>
     </div>
