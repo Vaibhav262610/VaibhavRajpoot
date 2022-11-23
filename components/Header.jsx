@@ -22,13 +22,13 @@ const Header = () => {
             skill-set to empower people to accomplish their goals.
           </p>
             <div className="flex pt-10 gap-5">
-              <a href="https://github.com/Vaibhav262610" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Vaibhav262610" >
               <button className="github-btn hover:text-white flex gap-2">
               <BsGithub className="github-icon"/>
               Github
               </button>
               </a>
-              <a href="https://linktr.ee/vaibhavrajpoot" target="_blank" rel="noreferrer">
+              <a href="https://linktr.ee/vaibhavrajpoot" >
               <button className="contact-btn hover:text-white flex gap-2">
               <BsFillTreeFill className="github-icon"/>
               LinkTree
